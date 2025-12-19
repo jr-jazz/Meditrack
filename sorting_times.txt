@@ -1,0 +1,232 @@
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.000993 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.007743 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.004409 seconds
+Method: Quick Sort, Data Size: 5, Time Taken: 0.015574 seconds
+Method: Quick Sort, Data Size: 8, Time Taken: 0.018173 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 11, Time Taken: 0.020634 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.003139 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.004376 seconds
+Method: Quick Sort, Data Size: 5, Time Taken: 0.010252 seconds
+Method: Quick Sort, Data Size: 7, Time Taken: 0.013787 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 9, Time Taken: 0.016958 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.001702 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.001189 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.000997 seconds
+Method: Quick Sort, Data Size: 5, Time Taken: 0.004180 seconds
+Method: Quick Sort, Data Size: 8, Time Taken: 0.006501 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 0, Time Taken: 0.000000 seconds
+Method: Quick Sort, Data Size: 2, Time Taken: 0.001463 seconds
+Method: Quick Sort, Data Size: 3, Time Taken: 0.002461 seconds
+Method: Quick Sort, Data Size: 13, Time Taken: 0.009959 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001430 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001491 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.004044 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.005090 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.005090 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.006782 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.011417 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000998 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.004260 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000998 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001994 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.005034 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.008809 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.014571 seconds
+Method: Merge Sort, Data Size: 18, Time Taken: 0.026985 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001126 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000690 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.003811 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001141 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000998 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.001996 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.004133 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.008941 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000998 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000996 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.003077 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001996 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000997 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.001994 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.004988 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.010060 seconds
+Method: Merge Sort, Data Size: 18, Time Taken: 0.019001 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001685 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.003393 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.007857 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000997 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001253 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.002446 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.004441 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.013564 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001979 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001024 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.003486 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.004127 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001028 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.002375 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.008495 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.015146 seconds
+Method: Merge Sort, Data Size: 18, Time Taken: 0.030999 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001382 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000999 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.003470 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000998 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000997 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.003078 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.004075 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.009592 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001267 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001216 seconds
+Method: Merge Sort, Data Size: 4, Time Taken: 0.003481 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.000997 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 1, Time Taken: 0.000000 seconds
+Method: Merge Sort, Data Size: 2, Time Taken: 0.001186 seconds
+Method: Merge Sort, Data Size: 3, Time Taken: 0.002181 seconds
+Method: Merge Sort, Data Size: 5, Time Taken: 0.005176 seconds
+Method: Merge Sort, Data Size: 9, Time Taken: 0.009654 seconds
+Method: Merge Sort, Data Size: 18, Time Taken: 0.021239 seconds
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 13
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+HeapSort - Half: 0.000000s, Full: 0.000000s, Size: 1
+HeapSort (Doctor Records) - Time: 0.000000s, Size: 1, Key: Record Date
+HeapSort (Doctor Records) - Time: 0.000000s, Size: 1, Key: Patient ID
+HeapSort (Medical Records) - Time: 0.000000s, Size: 1, Key: Diagnosis
+HeapSort (Doctor Records) - Time: 0.000000s, Size: 5, Key: Record Date
+HeapSort (Doctor Records) - Time: 0.000000s, Size: 5, Key: Patient ID
+HeapSort (Doctor Records) - Time: 0.000000s, Size: 5, Key: Patient Name
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Ascending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 8, Direction: Ascending
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Descending
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Ascending
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Descending
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 9
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 9
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 9
+QuickSort - Half: 0.003060s, Full: 0.000000s, Size: 9
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Descending
+MergeSort (Appointments) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Ascending
+QuickSort - Half: 0.002990s, Full: 0.000997s, Size: 13
+QuickSort - Half: 0.000000s, Full: 0.000995s, Size: 13
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Ascending
+MergeSort - Half: 0.001027s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000998s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000998s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.004025s, Full: 0.000000s, Size: 18
+MergeSort - Half: 0.000000s, Full: 0.001543s, Size: 18
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 14
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 14
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 1, Direction: Descending
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 11, Direction: Descending
+HeapSort (Medical Records) - Half: 0.000000s, Full: 0.000000s, Size: 11, Direction: Ascending
+MergeSort - Half: 0.000000s, Full: 0.000000s, Size: 18
+QuickSort - Half: 0.000000s, Full: 0.000000s, Size: 14

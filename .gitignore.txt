@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated files from your project
+sorting_times.txt
+sorting_performance.png
+
+# Local database files (if any)
+*.db
+*.sqlite3
+
+# MySQL/MariaDB dump files (if you keep local copies)
+*.sql.bak
+dump/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp#
